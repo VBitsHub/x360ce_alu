@@ -7,6 +7,7 @@ Please follow the directions provided in the xboxcontroller.pdf.
 5/21/2020
  - Pinball FX3 layout to make it work like previous release (P1 A = left flipper, P2 C = right flipper, Rewind = A or plunger)
    Drop into pinballfx folder
+ - Fixed mouse mode not clicking.
 
 
 5/20/2020
