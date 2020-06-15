@@ -4,6 +4,9 @@ X360CE Modded for Atgames Legends - Work in progress
 
 Please follow the directions provided in the xboxcontroller.pdf.
 
+6/14/2020
+ - Fixed a bug in the joystick_driver.exe
+
 5/23/2020
  - Updated pdf
  - Minor change to joystick_driver
