@@ -4,6 +4,10 @@ X360CE Modded for Atgames Legends - Work in progress
 
 Please follow the directions provided in the xboxcontroller.pdf.
 
+10/6/62020
+ - Bug fixes
+ - Updated documentation
+
 8/8/2020
  - Bug fixes 
 
