@@ -1,6 +1,6 @@
 # x360ce_alu
  
-X360CE Modded for Atgames Legends - Work in progress
+X360CE Modded for Atgames Legends + Mouse Mode - Work in progress
 
 Please follow the directions provided in the xboxcontroller.pdf.
 
