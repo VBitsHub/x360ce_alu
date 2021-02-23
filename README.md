@@ -45,3 +45,4 @@ Coinops
 controls.cfg
 
 
+Credits go to the x360ce people who built the app and those that are continuing to work on it.
