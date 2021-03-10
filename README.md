@@ -4,7 +4,7 @@ X360CE Modded for Atgames Legends + Mouse Mode - Work in progress
 
 Please follow the directions provided in the xboxcontroller.pdf.
 
-10/6/62020
+10/6/2020
  - Bug fixes
  - Updated documentation
 
