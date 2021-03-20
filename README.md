@@ -4,6 +4,8 @@ X360CE Modded for Atgames Legends + Mouse Mode - Work in progress
 
 Please follow the directions provided in the xboxcontroller.pdf.
 
+To use with gamer pro use usb to usb cable (bluetooth will not work)
+
 10/6/62020
  - Bug fixes
  - Updated documentation
