@@ -4,9 +4,13 @@ X360CE Modded for Atgames Legends + Mouse Mode - Work in progress
 
 Please follow the directions provided in the xboxcontroller.pdf.
 
+<<<<<<< HEAD
 To use with gamer pro use usb to usb cable (bluetooth will not work)
 
 10/6/62020
+=======
+10/6/2020
+>>>>>>> 666ec9d6d77e10f36f5e788342c51ca10e9b8154
  - Bug fixes
  - Updated documentation
 
@@ -47,3 +51,4 @@ Coinops
 controls.cfg
 
 
+Credits go to the x360ce people who built the app and those that are continuing to work on it.
